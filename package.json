@@ -1,0 +1,14 @@
+{
+  "name": "nodejs2ch",
+  "version": "1.0.0",
+  "description": "scraping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio-httpcli": "^0.7.0"
+  }
+}
